@@ -1,5 +1,5 @@
 # Notes-App-CICD
-<img src="https://github.com/Harsh971/Notes-App-CICD/blob/main/architecture.gif"></img>
+<img src=""></img>
 
 ## Project Overview:
 This project focuses on automating the deployment of a Notes App. The code, stored on GitHub, is cloned, a Docker image is created and pushed to Docker Hub, and then the application is hosted.
@@ -102,20 +102,6 @@ pipeline {
 - Enhanced the robustness and reliability of Dockerized applications.
 - Gained valuable experience with GitHub webhooks for automated rebuilds.
 
-Code Source : [Click here](https://github.com/LondheShubham153/django-notes-app)<br>
-Project Reference : [Click here](https://www.google.com/search?q=shubham+londhe+cicd+declarative+pipeline&rlz=1C1CHBF_enIN1043IN1044&oq=shubham+londhe+cicd+declarative+pipeline&gs_lcrp=EgZjaHJvbWUyCwgAEEUYChg5GKAB0gEJMTY2OTVqMGo5qAIAsAIB&sourceid=chrome&ie=UTF-8#)
-
-## Feedback
-
-Your feedback is valuable! If you have suggestions for improving existing content or ideas for new additions, please open an issue or reach out to the repository maintainers. If you have any other feedbacks, you can reach out to us at harsh.thakkar0369@gmail.com
 
 
-## Connect with Me
-<p>
 
- <a href="https://twitter.com/HarshThakkar971" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/vector-new-twitter-x-white-logo-black-background_744381-866.jpg" alt="HarshThakkar971" height="40" width="50" /></a>
-  &nbsp;&nbsp;
-  	<a href="https://linkedin.com/in/harsh-thakkar-7764bb1a4" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="harsh-thakkar-7764bb1a4" height="40" width="40" /></a>
-  &nbsp;&nbsp;
- <a href="https://instagram.com/harsh_thakkar09" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="harsh_thakkar09" height="40" width="40" /></a>
-</p>
