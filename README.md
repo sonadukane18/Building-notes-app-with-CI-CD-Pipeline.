@@ -1,5 +1,5 @@
 # Notes-App-CICD
-<img src=""></img>
+<img src="https://github.com/sonadukane18/Building-notes-app-with-CI-CD-Pipeline./blob/main/architecture.gif"></img>
 
 ## Project Overview:
 This project focuses on automating the deployment of a Notes App. The code, stored on GitHub, is cloned, a Docker image is created and pushed to Docker Hub, and then the application is hosted.
